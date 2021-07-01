@@ -1,4 +1,4 @@
-# dev-portal-basic-Node.js-Postman-App-sample
+# basic-Node.js-Postman-App
 ## Requirements
 Building the client library requires:
 1.  Node.js [Installation][1]
@@ -13,11 +13,11 @@ Building the client library requires:
 ## Installation
 To copy the client to your computer copy link of the repository, open Command Prompt, go to the location where project will be copied and execute git clone command:
 ```shell
-git clone https://github.com/kyriba/dev-portal-basic-Node.js-Postman-App-sample.git
+git clone https://github.com/kyriba/basic-Node.js-Postman-App.git
 ```
 Open the project folder via command prompt, for example:
 ```shell
-cd dev-portal-basic-Node.js-Postman-App-sample
+cd basic-Node.js-Postman-App
 ```
 Select the desired Collection in Postman, authenticate through "Get token." request and run the request that you want to provide in the Application.
 If the request works, copy code from Postman:
