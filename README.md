@@ -13,7 +13,7 @@ Building the client library requires:
 ## Installation
 To copy the client to your computer copy link of the repository, open Command Prompt, go to the location where project will be copied and execute git clone command:
 ```shell
-git clone https://github.com/kyriba/basic-Node.js-Postman-App.git
+git clone https://github.com/OlhaLevko/basic-Node.js-Postman-App.git
 ```
 Open the project folder via command prompt, for example:
 ```shell
