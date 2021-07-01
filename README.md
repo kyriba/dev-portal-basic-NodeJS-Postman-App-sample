@@ -32,9 +32,9 @@ Open the .../app.js file with any text redactor and input your piece of code:
 
 ![input.png](input.png)
 
-Install module axios in the project folder via Terminal:
+Install axios and qs modules in the project folder via Terminal:
 ```shell
-npm install axios
+npm install axios qs
 ```
 
 Run the project in Terminal in the root folder of cloned app:
