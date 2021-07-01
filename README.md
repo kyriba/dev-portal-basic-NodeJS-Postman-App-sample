@@ -32,6 +32,10 @@ Open the .../app.js file with any text redactor and input your piece of code:
 
 ![input.png](input.png)
 
+Install module axios in the project folder via Terminal:
+```shell
+npm install axios
+```
 
 Run the project in Terminal in the root folder of cloned app:
 ```shell
